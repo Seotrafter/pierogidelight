@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /about/
+Sitemap: https://pierogidelight.com/sitemap.xml
